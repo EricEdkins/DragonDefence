@@ -1,0 +1,20 @@
+{
+  "$GMPath":"",
+  "%Name":"Path3",
+  "closed":false,
+  "kind":0,
+  "name":"Path3",
+  "parent":{
+    "name":"Dragno_Defence_1_of_3_paths_working",
+    "path":"Dragno_Defence_1_of_3_paths_working.yyp",
+  },
+  "points":[
+    {"speed":100.0,"x":152.0,"y":75.0,},
+    {"speed":100.0,"x":508.0,"y":75.0,},
+    {"speed":100.0,"x":220.0,"y":366.0,},
+    {"speed":100.0,"x":453.0,"y":362.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
